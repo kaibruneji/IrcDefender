@@ -1,2 +1,8 @@
 venv/
+banlist/
+__pycache__/
 code.json
+Pipfile
+Pipfile.lock
+road.txt
+users.db
